@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+header .heading { /* headerタグ内のheadingクラスにのみ反映される */
+  font-size: 32px;
+}
