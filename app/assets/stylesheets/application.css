@@ -31,6 +31,10 @@ header .heading { /* headerタグ内のheadingクラスにのみ反映される 
   margin: 0 auto;
 }
 
+main-visual-text {
+  font-size: 64px;
+  color: #FAFAFA;
+}
 footer {
   width: 100%;
   height: 120px;
