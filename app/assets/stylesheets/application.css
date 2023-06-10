@@ -34,10 +34,15 @@ header .heading { /* headerタグ内のheadingクラスにのみ反映される 
 main {
   height: 650px;
   width: 100%;
-
 }
+
 main-visual-text {
   font-size: 64px;
+  color: #FAFAFA;
+}
+
+main-sub-text {
+  font-size: 20px;
   color: #FAFAFA;
 }
 
