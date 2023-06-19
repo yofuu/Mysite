@@ -31,9 +31,10 @@ header .heading { /* headerタグ内のheadingクラスにのみ反映される 
   margin: 0 auto;
 }
 
-main {
+main-visual {
   height: 650px;
   width: 100%;
+  background-image: url(img/mv.png);
 }
 
 main-visual-text {
