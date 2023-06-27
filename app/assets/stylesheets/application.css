@@ -41,6 +41,7 @@ main-visual {
 main-visual-text {
   font-size: 64px;
   color: #FAFAFA;
+  top: 200px;
 }
 
 main-sub-text {
