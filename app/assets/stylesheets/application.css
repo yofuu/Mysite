@@ -20,6 +20,11 @@ header {
   background-color: #EC715F
 }
 
+.img{
+  
+}
+
+
 
 header .heading { /* headerタグ内のheadingクラスにのみ反映される */
   font-size: 32px;
@@ -29,7 +34,6 @@ header .heading { /* headerタグ内のheadingクラスにのみ反映される 
   text-align: center;
   padding: 10px 0;
   margin: 0 auto;
-  nav-image: url(image/logo.png);
 }
 
 main-visual {
