@@ -59,6 +59,12 @@ main {
 
 .blog{
   font-size: 32px;
+  color: #000000;
+}
+
+.blog2{
+  font-size: 16px;
+  color: #000000
 }
 
 footer {
