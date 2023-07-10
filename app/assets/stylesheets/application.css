@@ -62,7 +62,18 @@ main {
   color: #000000;
 }
 
+.blog1{
+  font-size: 16px;
+  color: #000000
+}
+
 .blog2{
+  font-size: 32px;
+  color: #000000;
+  width:980px;
+}
+
+.blog3{
   font-size: 16px;
   color: #000000
 }
